@@ -1,0 +1,11 @@
+conda create --name df
+
+conda create 
+
+conda install -c conda-forge mamba
+
+mamba install -c conda-forge xgboost geopandas rasterio jupyter tqdm seaborn matplotlib scikit-learn bayesian-optimization multiprocess
+
+
+
+
