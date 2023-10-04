@@ -12,3 +12,4 @@ data/all dams centroids with water and dates.gpkg-wal
 *.gpkg-wal
 
 working/
+Required data/*
