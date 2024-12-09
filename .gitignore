@@ -12,7 +12,13 @@ data/all dams centroids with water and dates.gpkg-wal
 *.gpkg-wal
 
 working/
-Required data/*
+Required data/un2/*
+Required data/unused/*
+
 data/dam forecast val vs pred.csv
 data/dam_forecast_03-11-23.json
 data/dam forecast val vs pred.csv
+old/*
+Data outputs/*
+Data outputs*
+Plots*
